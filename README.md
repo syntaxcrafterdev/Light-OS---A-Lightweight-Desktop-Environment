@@ -63,20 +63,6 @@ light_os/
 └── utils/              # Utility modules
     ├── animations.py   # UI animations
     └── theme.py        # Theme configuration
-```
-│   ├── animations.py    # Animation effects
-│   └── theme.py         # Theme and styling
-├── widgets/             # Desktop widgets
-│   ├── app_launcher.py  # Application launcher
-│   ├── clock.py         # Clock widget
-│   ├── system_monitor.py # System monitoring
-│   └── weather.py       # Weather widget
-├── assets/              # Static assets
-│   ├── icons/           # Application icons
-│   └── wallpapers/      # Desktop wallpapers
-└── config/              # Configuration files
-    └── apps.json        # Application shortcuts
-```
 
 ## Keyboard Shortcuts
 
