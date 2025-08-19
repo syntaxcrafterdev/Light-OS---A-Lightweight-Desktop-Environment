@@ -1,0 +1,32 @@
+[
+    {
+        "name": "File Explorer",
+        "icon": "\ud83d\udcc1",
+        "command": "explorer"
+    },
+    {
+        "name": "Web Browser",
+        "icon": "\ud83c\udf10",
+        "command": "start msedge"
+    },
+    {
+        "name": "Text Editor",
+        "icon": "\ud83d\udcdd",
+        "command": "notepad"
+    },
+    {
+        "name": "Terminal",
+        "icon": "\ud83d\udcbb",
+        "command": "cmd"
+    },
+    {
+        "name": "Calculator",
+        "icon": "\ud83e\uddee",
+        "command": "calc"
+    },
+    {
+        "name": "Settings",
+        "icon": "\u2699\ufe0f",
+        "command": "ms-settings:"
+    }
+]
